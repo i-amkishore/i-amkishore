@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i-amkishore
+- 👋 Hi, I’m kishore
 - 👀 I’m UI/UX Designer and Frontend Developer
 - 🌱 I’m currently learning JavaScript and Angular
 - 💞️ I’m looking to collaborate on Client Projects
